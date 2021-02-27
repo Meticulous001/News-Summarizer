@@ -1,4 +1,3 @@
-setwd("C:\\Users\\JANE ODUM\\Desktop\\Lab\\Text-mining")
 
 library(xml2)
 library(rvest)
